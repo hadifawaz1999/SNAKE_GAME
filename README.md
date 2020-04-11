@@ -14,5 +14,5 @@ $python3 setup.py build
 This line will create a directory named build along side the SNAKE.py and setup.py files,
 so find the executable SNAKE file and run this command in the terminal inside the directory:
 ```
-./SNAKE
+$./SNAKE
 ```
