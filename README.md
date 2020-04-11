@@ -1,5 +1,5 @@
 # SNAKE_GAME
-Simple snake game written in python using pygame and then converted to runnable file using cx_Freeze.
+Simple snake game written in python using pygame and then converted to executable file using cx_Freeze.
 
 # Requirements
 ## 1- Pygame
